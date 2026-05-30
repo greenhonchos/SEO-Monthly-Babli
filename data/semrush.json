@@ -1,0 +1,1613 @@
+{
+  "domain": "babli.in",
+  "source": "SEMrush position tracking export (20260530)",
+  "keywords": [
+    {
+      "keyword": "tie dye dress",
+      "pos": 2.0,
+      "prev_pos": 2.0,
+      "delta": 0.0,
+      "landing": "https://babli.in/collections/rang-tie-dye",
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "basic shirt womens",
+      "pos": 3.0,
+      "prev_pos": 3.0,
+      "delta": 0.0,
+      "landing": "https://babli.in/collections/basics-shirts",
+      "vol": 260.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "cotton bottom",
+      "pos": 3.0,
+      "prev_pos": 3.0,
+      "delta": 0.0,
+      "landing": "https://babli.in/collections/bottoms",
+      "vol": 110.0,
+      "intent": "c",
+      "cpc": 0.19
+    },
+    {
+      "keyword": "basic shirts womens",
+      "pos": 5.0,
+      "prev_pos": 7.0,
+      "delta": 2.0,
+      "landing": "https://babli.in/collections/basics-shirts",
+      "vol": 390.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "tie and dye dresses",
+      "pos": 6.0,
+      "prev_pos": 3.0,
+      "delta": -3.0,
+      "landing": "https://babli.in/collections/rang-tie-dye",
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "womens embroidered tops",
+      "pos": 6.0,
+      "prev_pos": 30.0,
+      "delta": 24.0,
+      "landing": "https://babli.in/collections/women-embroidered-top",
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "airport dress for ladies",
+      "pos": 7.0,
+      "prev_pos": 10.0,
+      "delta": 3.0,
+      "landing": "https://babli.in/blogs/news/airport-outfits-for-women-complete-guide-for-stylish-travel-looks",
+      "vol": 50.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "cotton co ords",
+      "pos": 7.0,
+      "prev_pos": 9.0,
+      "delta": 2.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 480.0,
+      "intent": "c",
+      "cpc": 0.1
+    },
+    {
+      "keyword": "cotton tops for women",
+      "pos": 7.0,
+      "prev_pos": 15.0,
+      "delta": 8.0,
+      "landing": "https://babli.in/collections/tops-shirts",
+      "vol": 22200.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "womens tie dye shirts",
+      "pos": 7.0,
+      "prev_pos": 8.0,
+      "delta": 1.0,
+      "landing": "https://babli.in/collections/rang-tie-dye",
+      "vol": 1300.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "airport dress",
+      "pos": 8.0,
+      "prev_pos": 18.0,
+      "delta": 10.0,
+      "landing": "https://babli.in/blogs/news/airport-outfits-for-women-complete-guide-for-stylish-travel-looks",
+      "vol": 1300.0,
+      "intent": "i|c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "cotton co ord set",
+      "pos": 10.0,
+      "prev_pos": 6.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 6600.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "cotton tops",
+      "pos": 10.0,
+      "prev_pos": 8.0,
+      "delta": -2.0,
+      "landing": "https://babli.in/collections/tops-shirts",
+      "vol": 6600.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "dress under 2000",
+      "pos": 10.0,
+      "prev_pos": 9.0,
+      "delta": -1.0,
+      "landing": "https://babli.in/collections/below-2000",
+      "vol": 210.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "palazzo co ord set",
+      "pos": 13.0,
+      "prev_pos": 10.0,
+      "delta": -3.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 720.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "palazzo pants and crop tops",
+      "pos": 14.0,
+      "prev_pos": 9.0,
+      "delta": -5.0,
+      "landing": "https://babli.in/blogs/news/from-daywear-to-party-looks-crop-top-palazzo-set-for-women",
+      "vol": 12100.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "shirt and shorts set",
+      "pos": 17.0,
+      "prev_pos": 13.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/collections/basics-shirts",
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "plazo with crop top",
+      "pos": 19.0,
+      "prev_pos": 15.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/blogs/news/from-daywear-to-party-looks-crop-top-palazzo-set-for-women",
+      "vol": 18100.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "scrunch top",
+      "pos": 19.0,
+      "prev_pos": 6.0,
+      "delta": -13.0,
+      "landing": "https://babli.in/collections/scrunch-top-camisole",
+      "vol": 170.0,
+      "intent": "i|c",
+      "cpc": null
+    },
+    {
+      "keyword": "basic tops womens",
+      "pos": 20.0,
+      "prev_pos": 3.0,
+      "delta": -17.0,
+      "landing": "https://babli.in/collections/basics-tops",
+      "vol": 8100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "womens peplum top",
+      "pos": 21.0,
+      "prev_pos": 36.0,
+      "delta": 15.0,
+      "landing": "https://babli.in/collections/women-peplum-top",
+      "vol": 27100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "peplum tops",
+      "pos": 22.0,
+      "prev_pos": 24.0,
+      "delta": 2.0,
+      "landing": "https://babli.in/collections/women-peplum-top",
+      "vol": 60500.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "airport look dresses online",
+      "pos": 24.0,
+      "prev_pos": 26.0,
+      "delta": 2.0,
+      "landing": "https://babli.in/blogs/news/airport-outfits-for-women-complete-guide-for-stylish-travel-looks",
+      "vol": 390.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "top and bottom set party wear",
+      "pos": 25.0,
+      "prev_pos": 100.0,
+      "delta": 75.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 1000.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "pants and top set",
+      "pos": 27.0,
+      "prev_pos": 41.0,
+      "delta": 14.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "top and trouser set",
+      "pos": 31.0,
+      "prev_pos": 100.0,
+      "delta": 69.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "shorts and top set",
+      "pos": 39.0,
+      "prev_pos": 100.0,
+      "delta": 61.0,
+      "landing": "https://babli.in/collections/basics-shirts",
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "basic black shirt",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 110.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "basic black top womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 170.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "beach dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 9900.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "beach holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 90.0,
+      "intent": "c",
+      "cpc": 0.11
+    },
+    {
+      "keyword": "beautiful holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 10.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "best holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 10.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "black co ord",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 260.0,
+      "intent": "c",
+      "cpc": 0.09
+    },
+    {
+      "keyword": "black cotton pants",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2900.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "black dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "black set",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 720.0,
+      "intent": "i|c",
+      "cpc": null
+    },
+    {
+      "keyword": "black set for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 210.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "black shirt for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 18100.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "black tops for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 33100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "bottoms for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "boxy shirt",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 5400.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "boxy shirt womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1300.0,
+      "intent": "i|c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "casual dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 40500.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "casual holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "casual midi dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "casual shirts for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 12100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "christmas holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "i|c",
+      "cpc": null
+    },
+    {
+      "keyword": "co ord set for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 74000.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "co ord sets",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -25.0,
+      "landing": null,
+      "vol": 74000.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "co-ord set for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "comfortable airport outfits online",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 260.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "comfortable cotton pants",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 50.0,
+      "intent": "c",
+      "cpc": 0.09
+    },
+    {
+      "keyword": "cord set womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 60500.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "cotton co ord set women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -74.0,
+      "landing": null,
+      "vol": 880.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "cotton dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 14800.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "cotton embroidered tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 390.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "cotton frocks for womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 18100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "cotton holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 30.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "cotton jackets for womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 4400.0,
+      "intent": "i|c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "cotton long tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 390.0,
+      "intent": "c",
+      "cpc": 0.01
+    },
+    {
+      "keyword": "cotton pant for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.15
+    },
+    {
+      "keyword": "cotton pants for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 18100.0,
+      "intent": "c",
+      "cpc": 0.07
+    },
+    {
+      "keyword": "cotton shirts for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -60.0,
+      "landing": null,
+      "vol": 8100.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "crop top",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 90500.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "crop tops for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 90500.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "cute holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "daily wear dresses for ladies",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1000.0,
+      "intent": "i|c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "dress to wear in resort",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 110.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "dresses for resort vacation",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 720.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 301000.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "embroidered shirts womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 6600.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "full hand tops for ladies",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1300.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "full sleeve shirts for womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 3600.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "full sleeve summer tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 3600.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "full sleeve tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 14800.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "full sleeve tops for winter",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "full sleeve tops for womens",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 49500.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "full sleeves top for winter",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "half long sleeve top",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "half sleeve tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 480.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "half sleeve tops for ladies",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 260.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "holiday dress up ideas",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "i",
+      "cpc": null
+    },
+    {
+      "keyword": "holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 390.0,
+      "intent": "c",
+      "cpc": 0.08
+    },
+    {
+      "keyword": "holiday dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 720.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "holiday dressing ideas",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 10.0,
+      "intent": "i",
+      "cpc": null
+    },
+    {
+      "keyword": "holiday maxi dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "c",
+      "cpc": 0.08
+    },
+    {
+      "keyword": "holiday midi dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 10.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "jeans top for girls",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 165000.0,
+      "intent": "i|c",
+      "cpc": 0.08
+    },
+    {
+      "keyword": "knee length holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 10.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "ladies sleeveless tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "long sleeve holiday dress",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 30.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "long sleeve tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 3600.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "lounge dress",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 720.0,
+      "intent": "i|c",
+      "cpc": 0.07
+    },
+    {
+      "keyword": "lounge dress female",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "luxury resort wear",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 110.0,
+      "intent": "c",
+      "cpc": 0.28
+    },
+    {
+      "keyword": "midi dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 74000.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "midi shirt dress",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1300.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "modest holiday dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 30.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "one piece dress for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 74000.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "one sleeve top",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 480.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "pants for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 90500.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "party co ord sets",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 480.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "plazo with top",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 27100.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "red tops for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 14800.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "resort dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 480.0,
+      "intent": "c",
+      "cpc": 0.07
+    },
+    {
+      "keyword": "resort wear dresses",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 260.0,
+      "intent": "c",
+      "cpc": 0.12
+    },
+    {
+      "keyword": "shirt and pants for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 4400.0,
+      "intent": "i|c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "shirt dress",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -91.0,
+      "landing": null,
+      "vol": 9900.0,
+      "intent": "c",
+      "cpc": 0.07
+    },
+    {
+      "keyword": "shirt dress women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -76.0,
+      "landing": null,
+      "vol": 22200.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "shirts for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 135000.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "short sleeve tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 720.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "shorts co ord set",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.07
+    },
+    {
+      "keyword": "sleeveless top for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "sleeveless tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 3600.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "straight pants for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 12100.0,
+      "intent": "i",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "summer co ord sets",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2900.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "summer cotton tops for ladies",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -72.0,
+      "landing": null,
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "summer dresses for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 40500.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "summer shirts for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 5400.0,
+      "intent": "i|c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "summer tops for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 12100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "tie dye shirts",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -72.0,
+      "landing": null,
+      "vol": 22200.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "top without sleeves",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 720.0,
+      "intent": "i|c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "tops for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 301000.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "voluminous sleeve top",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 20.0,
+      "intent": "c",
+      "cpc": null
+    },
+    {
+      "keyword": "white bottom pants",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 40.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "white bottoms for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 880.0,
+      "intent": "i|c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "white co ord set",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.09
+    },
+    {
+      "keyword": "white pants for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 18100.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "white shirt for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 49500.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "white tops for women",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 14800.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "women top full sleeve",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 590.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "womens basic tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": -71.0,
+      "landing": null,
+      "vol": 5400.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "womens cotton sleeveless tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 1600.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "womens half sleeve tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "womens sleeveless tops",
+      "pos": null,
+      "prev_pos": null,
+      "delta": null,
+      "landing": null,
+      "vol": 22200.0,
+      "intent": "c",
+      "cpc": 0.02
+    }
+  ],
+  "buckets": {
+    "tracked_total": 136,
+    "ranking": 27,
+    "top3": 3,
+    "top5": 4,
+    "top10": 14,
+    "top20": 20,
+    "page1": 14,
+    "page2": 6,
+    "avg_pos": 14.1,
+    "total_vol": 2327570,
+    "dist": {
+      "1-3": 3,
+      "4-10": 11,
+      "11-20": 6,
+      "21-50": 7,
+      "51-100": 0
+    }
+  },
+  "winners": [
+    {
+      "keyword": "top and bottom set party wear",
+      "pos": 25.0,
+      "prev_pos": 100.0,
+      "delta": 75.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 1000.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "top and trouser set",
+      "pos": 31.0,
+      "prev_pos": 100.0,
+      "delta": 69.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "shorts and top set",
+      "pos": 39.0,
+      "prev_pos": 100.0,
+      "delta": 61.0,
+      "landing": "https://babli.in/collections/basics-shirts",
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "womens embroidered tops",
+      "pos": 6.0,
+      "prev_pos": 30.0,
+      "delta": 24.0,
+      "landing": "https://babli.in/collections/women-embroidered-top",
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "womens peplum top",
+      "pos": 21.0,
+      "prev_pos": 36.0,
+      "delta": 15.0,
+      "landing": "https://babli.in/collections/women-peplum-top",
+      "vol": 27100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "pants and top set",
+      "pos": 27.0,
+      "prev_pos": 41.0,
+      "delta": 14.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 4400.0,
+      "intent": "c",
+      "cpc": 0.03
+    },
+    {
+      "keyword": "airport dress",
+      "pos": 8.0,
+      "prev_pos": 18.0,
+      "delta": 10.0,
+      "landing": "https://babli.in/blogs/news/airport-outfits-for-women-complete-guide-for-stylish-travel-looks",
+      "vol": 1300.0,
+      "intent": "i|c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "cotton tops for women",
+      "pos": 7.0,
+      "prev_pos": 15.0,
+      "delta": 8.0,
+      "landing": "https://babli.in/collections/tops-shirts",
+      "vol": 22200.0,
+      "intent": "c",
+      "cpc": 0.02
+    }
+  ],
+  "losers": [
+    {
+      "keyword": "basic tops womens",
+      "pos": 20.0,
+      "prev_pos": 3.0,
+      "delta": -17.0,
+      "landing": "https://babli.in/collections/basics-tops",
+      "vol": 8100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "scrunch top",
+      "pos": 19.0,
+      "prev_pos": 6.0,
+      "delta": -13.0,
+      "landing": "https://babli.in/collections/scrunch-top-camisole",
+      "vol": 170.0,
+      "intent": "i|c",
+      "cpc": null
+    },
+    {
+      "keyword": "palazzo pants and crop tops",
+      "pos": 14.0,
+      "prev_pos": 9.0,
+      "delta": -5.0,
+      "landing": "https://babli.in/blogs/news/from-daywear-to-party-looks-crop-top-palazzo-set-for-women",
+      "vol": 12100.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "plazo with crop top",
+      "pos": 19.0,
+      "prev_pos": 15.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/blogs/news/from-daywear-to-party-looks-crop-top-palazzo-set-for-women",
+      "vol": 18100.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "cotton co ord set",
+      "pos": 10.0,
+      "prev_pos": 6.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 6600.0,
+      "intent": "c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "shirt and shorts set",
+      "pos": 17.0,
+      "prev_pos": 13.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/collections/basics-shirts",
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "tie and dye dresses",
+      "pos": 6.0,
+      "prev_pos": 3.0,
+      "delta": -3.0,
+      "landing": "https://babli.in/collections/rang-tie-dye",
+      "vol": 1900.0,
+      "intent": "c",
+      "cpc": 0.06
+    },
+    {
+      "keyword": "palazzo co ord set",
+      "pos": 13.0,
+      "prev_pos": 10.0,
+      "delta": -3.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 720.0,
+      "intent": "c",
+      "cpc": 0.02
+    }
+  ],
+  "page2": [
+    {
+      "keyword": "plazo with crop top",
+      "pos": 19.0,
+      "prev_pos": 15.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/blogs/news/from-daywear-to-party-looks-crop-top-palazzo-set-for-women",
+      "vol": 18100.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "palazzo pants and crop tops",
+      "pos": 14.0,
+      "prev_pos": 9.0,
+      "delta": -5.0,
+      "landing": "https://babli.in/blogs/news/from-daywear-to-party-looks-crop-top-palazzo-set-for-women",
+      "vol": 12100.0,
+      "intent": "i|c",
+      "cpc": 0.04
+    },
+    {
+      "keyword": "basic tops womens",
+      "pos": 20.0,
+      "prev_pos": 3.0,
+      "delta": -17.0,
+      "landing": "https://babli.in/collections/basics-tops",
+      "vol": 8100.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "shirt and shorts set",
+      "pos": 17.0,
+      "prev_pos": 13.0,
+      "delta": -4.0,
+      "landing": "https://babli.in/collections/basics-shirts",
+      "vol": 2400.0,
+      "intent": "c",
+      "cpc": 0.05
+    },
+    {
+      "keyword": "palazzo co ord set",
+      "pos": 13.0,
+      "prev_pos": 10.0,
+      "delta": -3.0,
+      "landing": "https://babli.in/collections/co-ord-sets",
+      "vol": 720.0,
+      "intent": "c",
+      "cpc": 0.02
+    },
+    {
+      "keyword": "scrunch top",
+      "pos": 19.0,
+      "prev_pos": 6.0,
+      "delta": -13.0,
+      "landing": "https://babli.in/collections/scrunch-top-camisole",
+      "vol": 170.0,
+      "intent": "i|c",
+      "cpc": null
+    }
+  ],
+  "footprint_total_keywords": null,
+  "featured_snippets": null
+}
